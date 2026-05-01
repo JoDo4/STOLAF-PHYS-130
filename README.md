@@ -1,2 +1,2 @@
-# STOLAF-PHYY-130
+# STOLAF-PHYS-130
 Repository for transferring the physics 130 labs to Jupyter Notebook
